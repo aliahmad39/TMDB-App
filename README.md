@@ -1,34 +1,30 @@
-# TMDB-App
-# Online Pharmacy App 
-This app is making in keeping view of easy usage for both technical and non-technical customers and try to overcome the existing drawbacks on existing Pharmacy Applications.
+# TMDB (The Movie Database) App
+TMDB is an Profession Android App built to display All Avialable Movies At TMDB site.
 
-# Features
-- Authentiction with email / Google / PhoneNo
-- Arrange Product Category wise for customer convenient 
-- Search Specific Prodect By Voice By ProductName By Product Description
-- Can Order Product By Uploading an Image of Doctor hand written priscription
-- Track the Order Status
-- Shopping Cart to Preserve Product for later Order
-- Automatically Order Form Fill up
-- Profile Updation For Automatically Order Form fill up
-- Edit / delete Order within 1 hour After Uploading Order  
+# Functionality
+- Communication with a WebService(Rest Api) using Retrofit
+- Parsing Json To Java
+- MVVM Architecture: View Model, Repository , Client Structure
+- Observables , LiveData , MutableLivaData  
+- Network Security Config for HTTP (API 28+)
+- Executers and Background Threads
+- ThreadPools  
+- Singleton
+- Multiple View Types in Recycler View
+- RecyclerView Pagination
+- Custom Toolbar
+- Glide to display Image
+- Passing data b/w Activities using Intent extras
+
 
 
 
 # Pictures
 <p float="left">
- <img src="https://github.com/aliahmad39/PharmacyApp/blob/master/asset/homePage.jpg" width="150" height="280">
+<img src="https://github.com/aliahmad39/PharmacyApp/blob/master/asset/homePage.jpg" width="150" height="280">
 <img src="https://github.com/aliahmad39/PharmacyApp/blob/master/asset/Login.jpg" width="150" height="280">
-<img src="https://github.com/aliahmad39/PharmacyApp/blob/master/asset/OrderByImage.jpg" width="150" height="280">
-<img src="https://github.com/aliahmad39/PharmacyApp/blob/master/asset/OrderForm.jpg" width="150" height="280">
-<img src="https://github.com/aliahmad39/PharmacyApp/blob/master/asset/ProductList.jpg" width="150" height="280">
 </p>
-<p float="left">
-<img src="https://github.com/aliahmad39/PharmacyApp/blob/master/asset/SearchByName.jpg" width="150" height="280">
-<img src="https://github.com/aliahmad39/PharmacyApp/blob/master/asset/SearchByVoice.jpg" width="150" height="280">
-<img src="https://github.com/aliahmad39/PharmacyApp/blob/master/asset/ShoppingCart.jpg" width="150" height="280">
-<img src="https://github.com/aliahmad39/PharmacyApp/blob/master/asset/UpdateProfile.jpg" width="150" height="280">
-</p>
+
 
 
 # License
